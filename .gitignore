@@ -1,7 +1,0 @@
-# .gitignore. . .don't push these items to GH
-*.csv
-*.pyc
-__pycache__
-.ipynb_checkpoints/
-*.gz
-*~
